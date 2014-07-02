@@ -1,4 +1,19 @@
-learn_zmq_oct
-=============
+playing with zeromq
+------------------
 
-playing with zeromq + node and ruby
+A Work in Progress
+==================
+
+
+###requeriments: 
+
+zeromq: 
+    apt-get install libzmq3
+
+node examples:
+    npm install -g zeromq
+
+ruby examples:
+
+
+Resources:
