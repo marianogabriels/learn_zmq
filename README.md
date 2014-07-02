@@ -7,9 +7,11 @@ playing with zeromq
 ###requeriments: 
 
 zeromq: 
+
     apt-get install libzmq3
 
 node examples:
+
     npm install -g zeromq
 
 ruby examples:
