@@ -1,8 +1,7 @@
 playing with zeromq
 ------------------
 
-A Work in Progress
-==================
+###A Work in Progress
 
 
 ###requeriments: 
